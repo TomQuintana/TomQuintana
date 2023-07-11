@@ -19,14 +19,6 @@
       height="100"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://www.typescriptlang.org/branding/typescript-design-assets.zip"
-      alt="nodejs"
-      width="100"
-      height="100"
-    />
-  </a>
    <a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
