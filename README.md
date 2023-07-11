@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom Quintana</h1>
-<h3 align="center">A passionate fullstack developer from Buenos Aires, Argentina</h3>
+<h3 align="center">A passionate software developer from Buenos Aires, Argentina</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
