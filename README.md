@@ -3,46 +3,48 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://github.com/TomQuintana/TomQuintana/assets/69986961/8c5b5012-52ee-4824-8292-5d45caa9cccf"
+      alt="javascript"
+       width="100"
+      height="100"
+    />
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="100"
       height="100"
     />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
+      src="https://github.com/TomQuintana/TomQuintana/assets/69986961/6497df6f-2499-4ad6-ab3f-f1ae229d8a44"
+      alt="javascript"
        width="100"
       height="100"
     />
-  </a>
-   <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="100"
-      height="100"
-    />
-  <a href="https://www.mongodb.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
       width="100"
       height="100"
     />
-  </a>
-    <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
        width="100"
       height="100"
     />
-  </a> 
-  </a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+       width="100"
+      height="100"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="100"
+      height="100"
+    />   
 </p>
 
 <!--
