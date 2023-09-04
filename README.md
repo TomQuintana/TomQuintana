@@ -47,7 +47,8 @@
     />   
 </p>
 
-- 🔭 I’m learnig working on Python and Solidity
+- 🔭 I’m working on Freelance Proyects
+- 🌱 I’m currently learning Python 
 
 <!--
 **TomQuintana/TomQuintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
