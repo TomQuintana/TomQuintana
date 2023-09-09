@@ -6,7 +6,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Typescript](https://img.shields.io/badge/Typescript.JS-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![React.JS](https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
