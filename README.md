@@ -12,6 +12,10 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
+## Meet me at:
+[![LinkedIn](https://img.shields.io/badge/linkedin-Tom_Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tomas-quintana-7391281b5/)
+
+
 - 🔭 I’m working on Freelance Proyects
 - 🌱 I’m currently learning Python 
 
