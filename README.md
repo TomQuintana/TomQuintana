@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer with a focus on Backend from Buenos Aires, Argentina</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
