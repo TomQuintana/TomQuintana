@@ -1,51 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tom Quintana</h1>
-<h3 align="center">Soy un desarrollador de Software con un enfoque en Backend, de Buenos Aires, Argentina</h3>
+<h3 align="center">A passionate Software developer with a focus on Backend from Buenos Aires, Argentina</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-    <img
-      src="https://github.com/TomQuintana/TomQuintana/assets/69986961/8c5b5012-52ee-4824-8292-5d45caa9cccf"
-      alt="javascript"
-       width="100"
-      height="100"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="100"
-      height="100"
-    />
-    <img
-      src="https://github.com/TomQuintana/TomQuintana/assets/69986961/6497df6f-2499-4ad6-ab3f-f1ae229d8a44"
-      alt="javascript"
-       width="100"
-      height="100"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="100"
-      height="100"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-       width="100"
-      height="100"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-       width="100"
-      height="100"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="100"
-      height="100"
-    />   
-</p>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Typescript](https://img.shields.io/badge/Typescript.JS-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![React.JS](https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+</br>
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 - 🔭 I’m working on Freelance Proyects
 - 🌱 I’m currently learning Python 
