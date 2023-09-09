@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom Quintana</h1>
 <h3 align="center">A passionate Software developer with a focus on Backend from Buenos Aires, Argentina</h3>
+<img src="https://www.tomquintana.site/_next/image?url=%2Flogo.jpg&w=640&q=75">
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -15,9 +17,8 @@
 ## Meet me at:
 [![LinkedIn](https://img.shields.io/badge/linkedin-Tom_Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tomas-quintana-7391281b5/)
 
+[![Sitio](https://img.shields.io/badge/Portfolio-tomquintana-FF7200?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.tomquintana.site/)
 
-- 🔭 I’m working on Freelance Proyects
-- 🌱 I’m currently learning Python 
 
 <!--
 **TomQuintana/TomQuintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
