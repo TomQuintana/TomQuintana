@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom Quintana</h1>
 <h3 align="center">A passionate Software developer with a focus on Backend from Buenos Aires, Argentina</h3>
-<img src="https://www.tomquintana.site/_next/image?url=%2Flogo.jpg&w=640&q=75">
 
 
 <h3 align="left">Languages and Tools:</h3>
